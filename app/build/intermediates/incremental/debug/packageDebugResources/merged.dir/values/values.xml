@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#90CAF9</color>
+    <color name="bad">#DC2626</color>
+    <color name="divider">#CFE0FF</color>
+    <color name="good">#16A34A</color>
+    <color name="outlineBlue">#B7CDFB</color>
+    <color name="primary">#1565F9</color>
+    <color name="primaryDark">#0B57D0</color>
+    <color name="secondary">#42A5F5</color>
+    <color name="seed">#2563EB</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surfaceSoft">#F7FAFF</color>
+    <color name="surfaceVariant">#DCEAFE</color>
+    <color name="textHint">#64748B</color>
+    <color name="textPrimary">#0F172A</color>
+    <color name="textSecondary">#475569</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_note">Ajouter note</string>
+    <string name="app_name">Student Profile</string>
+    <string name="call">Appel</string>
+    <string name="camera_permission_denied">Permission caméra refusée</string>
+    <string name="camera_permission_rationale">Autorisez la caméra pour changer la photo</string>
+    <string name="camera_success">Photo mise à jour</string>
+    <string name="cancel">Annuler</string>
+    <string name="confirm">Valider</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nom complet</string>
+    <string name="hint_phone">Téléphone</string>
+    <string name="hint_remarks">Remarques</string>
+    <string name="note_score">Note</string>
+    <string name="note_screen_subtitle">Renseignez la matière et la note obtenue.</string>
+    <string name="note_subject">Matière</string>
+    <string name="notes_title">Notes académiques</string>
+    <string name="profile_intro">Dossier étudiant</string>
+    <string name="profile_picture">Photo de profil</string>
+    <string name="profile_subtitle">Consultez et mettez à jour les informations principales de l’étudiant.</string>
+    <string name="save">Enregistrer</string>
+    <string name="screen_title">Profil étudiant</string>
+    <string name="screen_title_linear">Profil étudiant (LinearLayout)</string>
+    <string name="section_academic_notes">Dernières notes</string>
+    <string name="section_note_subtitle">Ajoutez rapidement une note pour enrichir le profil.</string>
+    <string name="section_personal_info">Informations personnelles</string>
+    <string name="source_placeholder">Source inconnue</string>
+    <string name="switch_ui">UI Linear</string>
+    <string name="switch_ui_constraint">UI Constraint</string>
+    <string name="tap_photo_hint">Touchez la photo pour ouvrir la caméra</string>
+    <style name="Theme.StudentProfile" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryContainer">@color/primaryDark</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+        <item name="colorOnSurfaceVariant">@color/textSecondary</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/surfaceSoft</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowBackground">@color/surfaceSoft</item>
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+        <item name="android:textColorHint">@color/textHint</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+        <item name="android:windowLightNavigationBar" ns1:targetApi="o_mr1">true</item>
+    </style>
+</resources>

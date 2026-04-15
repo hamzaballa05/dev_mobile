@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/layout_activity_profile_linear.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/layout/activity_profile_linear.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_premium_button_bg.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/premium_button_bg.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_badge_bg.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/badge_bg.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_premium_edittext_bg.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/premium_edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/layout-land_activity_profile_linear.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/layout-land/activity_profile_linear.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/layout-land_activity_main.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/layout_activity_note.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/layout/activity_note.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_profile_image_bg.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/profile_image_bg.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_section_card_bg.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/section_card_bg.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/layout_item_note.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_profile_card_bg.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/profile_card_bg.xml"
+    },
+    {
+        "merged": "com.example.studentprofile.app-debug-37:/drawable_bg_gradient.xml.flat",
+        "source": "com.example.studentprofile.app-main-39:/drawable/bg_gradient.xml"
+    }
+]

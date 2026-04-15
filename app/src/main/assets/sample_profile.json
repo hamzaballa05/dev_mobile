@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "nom": "Hamza",
+  "prenom": "Yasser",
+  "email": "YasserHamza@gmail.com",
+  "telephone": "06123456779",
+  "remarques": "Ecrivez vos remarques ici",
+  "image": "",
+  "notes": [
+    {"matiere": "Java", "score": 15.0},
+    {"matiere": "Android", "score": 14.0},
+    {"matiere": "Reseaux", "score": 12.0},
+    {"matiere": "Base de donnees", "score": 9.0}
+  ]
+}
